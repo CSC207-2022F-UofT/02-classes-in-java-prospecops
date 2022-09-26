@@ -171,7 +171,6 @@ public class Silly implements Comparable<Silly>{
 
         // Hint: to compare strings, we need to use .equals()
         //       e.g. s1.equals(s2)
-//    }
 
     /**
      * 5. If we want to compare two objects, we have to do two things:
